@@ -1,5 +1,13 @@
 # Elixir Podcast Status - December 2nd, 2019
 
+| Last update      | Latest episode    | # of episodes | Name            | Site                           | RSS                                         | Audio distribution site               | First episode     | Twitter                            |
+|------------------|-------------------|---------------|-----------------|--------------------------------|---------------------------------------------|---------------------------------------|-------------------|------------------------------------|
+| December 2, 2019 | August 9, 2019    | 85            | Elixir Fountain | http://www.elixirfountain.com/ | http://feed.elixirfountain.com/             | https://soundcloud.com/elixirfountain | June 9, 2015      | https://twitter.com/elixirfountain |
+| December 2, 2019 | October 24, 2019  | 57            | Elixir Talk     | http://elixirtalk.com/         | ??                                          | https://soundcloud.com/elixirtalk     | October 18, 2017  | https://twitter.com/ElixirTalk     |
+| December 2, 2019 | November 21, 2019 | 59            | Elixir Outlaws  | https://elixiroutlaws.com/     | https://feeds.fireside.fm/elixiroutlaws/rss | ??                                    | April 15, 2018    | https://twitter.com/elixiroutlaws  |
+| December 2, 2019 | November 26, 2019 | 79            | Elixir Mix      | https://devchat.tv/elixir-mix/ | https://feeds.feedwrench.com/elixirmix.rss  | ??                                    | May 1, 2018       | https://twitter.com/elixir_mix     |
+| December 2, 2019 | November 28, 2019 | 25            | Elixir Wizards  | https://podcast.smartlogic.io/ | https://podcast.smartlogic.io/rss           | ??                                    | February 25, 2019 | https://twitter.com/smartlogic     |
+|                  |                   | 305           |                 |                                |                                             |                                       |                   |                                    |
 
 ## Hosts and Panelists
 
