@@ -38,3 +38,5 @@ Last update: December 2nd, 2019
 | Elixir Mix      | Michael Ries   | Panelist | https://twitter.com/mmmries        |
 | Elixir Fountain | Sean Callan    | Host     | https://twitter.com/doomspork      |
 
+
+Information in a Spreadsheet https://docs.google.com/spreadsheets/d/e/2PACX-1vSRojVK2qNmmajz0PTFfJ8YAPtz7FVEQyv8vPZ7QFknijQPKtztIxgareI4dWhLGHIpLlq15cTNIOnW/pubhtml
