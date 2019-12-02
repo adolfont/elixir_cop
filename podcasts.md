@@ -39,6 +39,16 @@ Last update: December 2nd, 2019
 | Elixir Fountain | Sean Callan    | Host     | https://twitter.com/doomspork      |
 
 
-Information in a Spreadsheet https://docs.google.com/spreadsheets/d/e/2PACX-1vSRojVK2qNmmajz0PTFfJ8YAPtz7FVEQyv8vPZ7QFknijQPKtztIxgareI4dWhLGHIpLlq15cTNIOnW/pubhtml
+The same information in a Spreadsheet https://docs.google.com/spreadsheets/d/e/2PACX-1vSRojVK2qNmmajz0PTFfJ8YAPtz7FVEQyv8vPZ7QFknijQPKtztIxgareI4dWhLGHIpLlq15cTNIOnW/pubhtml
 
 Tool used to generate markdown tables: https://www.tablesgenerator.com/markdown_tables#
+
+# References
+
+[Podcasts and Screencasts](https://github.com/elixir-lang/elixir/wiki/Podcasts-and-Screencasts)
+
+[Elixir Podcasts at Elixir Forum](https://elixirforum.com/t/elixir-podcasts/79)
+
+[Elixir Podcasts by Adolfo Neto](https://medium.com/@adolfont/elixir-podcasts-e9579e073732)
+
+
