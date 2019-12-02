@@ -1,12 +1,14 @@
-# Elixir Podcasts Status - December 2nd, 2019
+# Elixir Podcasts Status
 
-| Last update      |   Latest episode  | # of episodes | Name            | Site                           |
-|------------------|:-----------------:|--------------:|-----------------|--------------------------------|
-| December 2, 2019 |   August 9, 2019  |            85 | Elixir Fountain | http://www.elixirfountain.com/ |
-| December 2, 2019 |  October 24, 2019 |            57 | Elixir Talk     | http://elixirtalk.com/         |
-| December 2, 2019 | November 21, 2019 |            59 | Elixir Outlaws  | https://elixiroutlaws.com/     |
-| December 2, 2019 | November 26, 2019 | 79            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
-| December 2, 2019 | November 28, 2019 | 25            | Elixir Wizards  | https://podcast.smartlogic.io/ |
+Last update: December 2nd, 2019
+
+|   Latest episode  | # of episodes | Name            | Site                           |
+|:-----------------:|--------------:|-----------------|--------------------------------|
+|   August 9, 2019  |            85 | Elixir Fountain | http://www.elixirfountain.com/ |
+|  October 24, 2019 |            57 | Elixir Talk     | http://elixirtalk.com/         |
+| November 21, 2019 |            59 | Elixir Outlaws  | https://elixiroutlaws.com/     |
+| November 26, 2019 | 79            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
+| November 28, 2019 | 25            | Elixir Wizards  | https://podcast.smartlogic.io/ |
 
 ## Additional Links
 
