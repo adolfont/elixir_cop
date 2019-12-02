@@ -1,4 +1,4 @@
-# Elixir Podcast Status - December 2nd, 2019
+# Elixir Podcasts Status - December 2nd, 2019
 
 | Last update      | Latest episode    | # of episodes | Name            | Site                           | RSS                                         | Audio distribution site               | First episode     | Twitter                            |
 |------------------|-------------------|---------------|-----------------|--------------------------------|---------------------------------------------|---------------------------------------|-------------------|------------------------------------|
