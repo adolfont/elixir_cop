@@ -1,2 +1,1 @@
-# elixir_cop
-The Elixir Community of Practice
+# The Elixir Community of Practice
