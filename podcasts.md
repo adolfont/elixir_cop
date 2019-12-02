@@ -9,6 +9,7 @@ Last update: December 2nd, 2019
 | November 21, 2019 |            59 | Elixir Outlaws  | https://elixiroutlaws.com/     |
 | November 26, 2019 | 79            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
 | November 28, 2019 | 25            | Elixir Wizards  | https://podcast.smartlogic.io/ |
+| October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
 
 ## Additional Links
 
@@ -19,13 +20,15 @@ Last update: December 2nd, 2019
 | Elixir Outlaws  | https://feeds.fireside.fm/elixiroutlaws/rss |                                    ?? | April 15, 2018    | https://twitter.com/elixiroutlaws  |
 | Elixir Mix      | https://feeds.feedwrench.com/elixirmix.rss  | ??                                    | May 1, 2018       | https://twitter.com/elixir_mix     |
 | Elixir Wizards  | https://podcast.smartlogic.io/rss           | ??                                    | February 25, 2019 | https://twitter.com/smartlogic     |
+| Indielixir      | ??                                          | ??                                    | March 10, 2018    | ??                                 |
 
 ## Hosts and Panelists
 
-| Podcast         | Name           | Role     | Twitter                            |
-|-----------------|----------------|----------|------------------------------------|
-| Elixir Outlaws  | Amos King      | Host     | https://twitter.com/Adkron         |
-| Elixir Outlaws  | Anna Neyzberg  | Host     | https://twitter.com/ANeyzb         |
+|     Podcast     |           Name | Role     | Twitter                            |
+|:---------------:|---------------:|----------|------------------------------------|
+|  Elixir Outlaws |      Amos King | Host     | https://twitter.com/Adkron         |
+|  Elixir Outlaws |  Anna Neyzberg | Host     | https://twitter.com/ANeyzb         |
+|    Indielixir   |  Carter Bryden | Host     | https://twitter.com/CarterBryden   |
 | Elixir Talk     | Chris Bell     | Host     | https://twitter.com/cjbell_        |
 | Elixir Outlaws  | Chris Keathley | Host     | https://twitter.com/ChrisKeathley  |
 | Elixir Talk     | Desmond Bowe   | Host     | https://twitter.com/desmondmonster |
