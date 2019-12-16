@@ -94,3 +94,8 @@
   - 2010
   - The Pragmatic Bookshelf
   - https://pragprog.com/book/btlang/seven-languages-in-seven-weeks
+  
+  
+  # References
+  
+  - https://elixir-lang.org/learning.html#books
