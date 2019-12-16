@@ -36,6 +36,8 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 
 - Ruby Rogues, 253 RR Phoenix and Rails with Chris McCord https://devchat.tv/ruby-rogues/253-rr-phoenix-and-rails-with-chris-mccord/
 
+- Running in Production,  Serving Medical University Employees, Health Officials and Students https://runninginproduction.com/podcast/1-a-medical-web-app-at-a-university-with-gabriel-robertson
+
 
 
 
