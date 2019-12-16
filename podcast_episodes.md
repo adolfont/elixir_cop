@@ -31,6 +31,8 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 
 - JOSÉ VALIM - COGNICAST EPISODE 120 http://blog.cognitect.com/cognicast/120
 
+- Ruby Rogues, 253 RR Phoenix and Rails with Chris McCord https://devchat.tv/ruby-rogues/253-rr-phoenix-and-rails-with-chris-mccord/
+
 
 
 
