@@ -13,7 +13,10 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 - The Bike Shed, 52: You're an Elixir Developer Now https://bikeshed.fm/episodes/52
 - The Bike Shed, 57: Mutability Ruins the Whole Party (José Valim) https://bikeshed.fm/episodes/57
 - Software Engineering Daily, Elixir and Erlang with Jose Valim https://softwareengineeringdaily.com/2016/04/18/elixir-erlang-jose-valim/, https://dev.to/sedaily/elixir-and-erlang-with-jose-valim
+- Software Engineering Daily, Erlang Systems Design with Francesco Cesarini https://softwareengineeringdaily.com/2016/05/22/erlang-systems-design-francesco-cesarini/
 - Developer on Fire, Episode 125 | José Valim - Peaks and Valleys https://developeronfire.com/podcast/episode-125-jose-valim-peaks-and-valleys
+- Functional Geekery Episode 49 – Steve Vinoski and Francesco Cesarini https://www.functionalgeekery.com/episode-49-steve-vinoski-and-francesco-cesarini/
+
 
 
 ## Portuguese
