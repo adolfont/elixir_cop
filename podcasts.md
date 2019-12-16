@@ -1,4 +1,6 @@
-# Elixir Podcasts Status
+# Elixir and Erlang Podcasts
+
+## Status of Elixir Podcasts
 
 Last update: December 2nd, 2019
 
@@ -11,7 +13,7 @@ Last update: December 2nd, 2019
 | November 28, 2019 | 25            | Elixir Wizards  | https://podcast.smartlogic.io/ |
 | October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
 
-## Additional Links
+### Additional Links
 
 | Name            |                     RSS                     |               Audio distribution site | First episode     | Twitter                            |
 |-----------------|:-------------------------------------------:|--------------------------------------:|-------------------|------------------------------------|
@@ -22,7 +24,7 @@ Last update: December 2nd, 2019
 | Elixir Wizards  | https://podcast.smartlogic.io/rss           | ??                                    | February 25, 2019 | https://twitter.com/smartlogic     |
 | Indielixir      | ??                                          | ??                                    | March 10, 2018    | ??                                 |
 
-## Hosts and Panelists
+### Hosts and Panelists
 
 | Podcast | Name | Role | Twitter |
 |:---------------:|---------------:|----------|------------------------------------|
@@ -45,16 +47,18 @@ The same information in a Spreadsheet https://docs.google.com/spreadsheets/d/e/2
 
 Tool used to generate markdown tables: https://www.tablesgenerator.com/markdown_tables#
 
-# References
+## Erlang podcasts
+
+- Mostly Erlang https://mostlyerlang.wordpress.com/
+
+
+
+
+## References
 
 [Podcasts and Screencasts](https://github.com/elixir-lang/elixir/wiki/Podcasts-and-Screencasts)
 
 [Elixir Podcasts at Elixir Forum](https://elixirforum.com/t/elixir-podcasts/79)
 
 [Elixir Podcasts by Adolfo Neto](https://medium.com/@adolfont/elixir-podcasts-e9579e073732)
-
-# Erlang podcasts
-
-- Mostly Erlang https://mostlyerlang.wordpress.com/
-
 
