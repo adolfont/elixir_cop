@@ -49,10 +49,7 @@
   - 2018
   - https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir
   
-- Programming Elixir 1.6: Functional |> Concurrent |> Pragmatic |> Fun
-  - Dave Thomas
-  - 2018
-  - https://pragprog.com/book/elixir16/programming-elixir-1-6
+
   
 - Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)
   - Chris McCord
@@ -61,8 +58,13 @@
   
 - Programming Elixir: Functional |> Concurrent |> Pragmatic |> Fun
   - Dave Thomas
-  - 2014
+  - 2014 
   - https://pragprog.com/book/elixir/programming-elixir
+    - Programming Elixir 1.2, 2016, https://pragprog.com/book/elixir12/programming-elixir-1-2
+    - Programming Elixir 1.3, 2016, https://pragprog.com/book/elixir13/programming-elixir-1-3
+    - Programming Elixir 1.6, 2018, https://pragprog.com/book/elixir16/programming-elixir-1-6
+
+
   
 
   
