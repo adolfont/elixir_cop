@@ -59,6 +59,11 @@
   - 2015
   - https://pragprog.com/book/cmelixir/metaprogramming-elixir
   
+- Programming Elixir: Functional |> Concurrent |> Pragmatic |> Fun
+  - Dave Thomas
+  - 2014
+  - https://pragprog.com/book/elixir/programming-elixir
+  
 
   
 
