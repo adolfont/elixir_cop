@@ -6,6 +6,7 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 ## English
 
 - The Changelog – Episode #365 - Let's talk Elixir! https://changelog.com/podcast/365
+- The Changelog – Episode #208 - Ecto 2 and Phoenix Presence https://changelog.com/podcast/208
 - The Changelog – Episode #194 - Elixir and the Future of Phoenix https://changelog.com/podcast/194
 - The Changelog – Episode #147 - Elixir and Phoenix https://changelog.com/podcast/147
 - Software Engineering Radio, SE-Radio 336: Saša Jurić on Elixir https://www.se-radio.net/2018/08/se-radio-336-sasa-juric-on-elixir/
@@ -16,6 +17,7 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 - Software Engineering Daily, Erlang Systems Design with Francesco Cesarini https://softwareengineeringdaily.com/2016/05/22/erlang-systems-design-francesco-cesarini/
 - Developer on Fire, Episode 125 | José Valim - Peaks and Valleys https://developeronfire.com/podcast/episode-125-jose-valim-peaks-and-valleys
 - Functional Geekery Episode 49 – Steve Vinoski and Francesco Cesarini https://www.functionalgeekery.com/episode-49-steve-vinoski-and-francesco-cesarini/
+- The New Stack Makers, Erlang, a Language for the Internet of Things https://soundcloud.com/thenewstackmakers/the-past-present-and-future-of-erlang
 
 
 
