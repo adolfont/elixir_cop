@@ -2,6 +2,9 @@
 
 ## English
 
+- SE-Radio 336: Saša Jurić on Elixir https://www.se-radio.net/2018/08/se-radio-336-sasa-juric-on-elixir/
+- Episode 89: Joe Armstrong on Erlang https://www.se-radio.net/2008/03/episode-89-joe-armstrong-on-erlang/
+
 ## Portuguese
 
 - Grok podcast series on Erlang https://www.grokpodcast.com.br/series/erlang/ with José Valim
