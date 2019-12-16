@@ -89,7 +89,22 @@
   - https://www.manning.com/books/erlang-and-otp-in-action
   
 
+## From O'Reilly
 
+
+- Introducing Elixir: Getting Started in Functional Programming
+  - Simon St. Laurent, J. Eisenberg
+  - 2014
+  - http://shop.oreilly.com/product/0636920030584.do
+  
+## From Packt
+
+- Elixir Cookbook
+  - Paulo A Pereira
+  - 2015
+  - https://www.packtpub.com/application-development/elixir-cookbook
+  
+  
 # Books with chapters on Elixir/Erlang
 
 - Seven More Languages in Seven Weeks: Languages That Are Shaping the Future
@@ -112,6 +127,13 @@
   - The Pragmatic Bookshelf
   - https://pragprog.com/book/btlang/seven-languages-in-seven-weeks
   
+  
+  # In preparation
+  
+  - https://www.amazon.com.br/Learn-Some-Erlang-Great-Good-ebook/dp/B00AZOT4MG/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-2
+  - https://www.amazon.com.br/Designing-Scalability-Erlang-OTP-Fault-Tolerant-ebook/dp/B01FRIM8OK/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-3
+  - https://www.amazon.com.br/Introducing-Erlang-Getting-Functional-Programming-ebook/dp/B06XHSP5SH/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-4
+  - https://www.amazon.com.br/Erlang-Programming-Concurrent-Approach-Development-ebook/dp/B002L4EXHY/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-5
   
   # References
   
