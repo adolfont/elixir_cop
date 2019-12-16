@@ -29,6 +29,11 @@
   - 2019
   - https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir
   
+- Functional Web Development with Elixir, OTP, and Phoenix: Rethink the Modern Web App
+  - Lance Halvorsen
+  - 2018
+  - https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix
+  
 - Craft GraphQL APIs in Elixir with Absinthe: Flexible, Robust Services for Queries, Mutations, and Subscriptions
   - Bruce Williams and Ben Wilson
   - 2018
@@ -37,6 +42,7 @@
 - Adopting Elixir: From Concept to Production
   - Ben Marx, José Valim, Bruce Tate
   - 2018
+  - https://pragprog.com/book/tvmelixir/adopting-elixir
   
 - Learn Functional Programming with Elixir: New Foundations for a New World
   - Ulisses Almeida
@@ -53,4 +59,19 @@
   - 2015
   - https://pragprog.com/book/cmelixir/metaprogramming-elixir
   
+
   
+
+# Books with chapters on Elixir/Erlang
+
+- Seven More Languages in Seven Weeks: Languages That Are Shaping the Future
+  - Bruce Tate, Fred Daoud, Jack Moffitt, Ian Dees
+  - 2014
+  - The Pragmatic Bookshelf
+  - https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks
+  
+- Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages
+  -  Bruce A. Tate
+  - 2010
+  - The Pragmatic Bookshelf
+  - https://pragprog.com/book/btlang/seven-languages-in-seven-weeks
