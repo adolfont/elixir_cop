@@ -1,6 +1,6 @@
 # Podcast episodes about Elixir/Erlang
 
-Here I list podcast episodes that are related to Elixir/Erlang but are not from one of the ELixir/Erlang [podcasts](podcasts.md).
+Here I list podcast episodes that are related to Elixir/Erlang but are not from one of the Elixir/Erlang [podcasts](podcasts.md).
 
 
 ## English
