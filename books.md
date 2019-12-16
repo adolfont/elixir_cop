@@ -24,6 +24,25 @@
   - 2019
   - https://pragprog.com/book/phoenix14/programming-phoenix-1-4
   
+- Property-Based Testing with PropEr, Erlang, and Elixir: Find Bugs Before Your Users Do
+  - Fred Hebert
+  - 2019
+  - https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir
+  
+- Craft GraphQL APIs in Elixir with Absinthe: Flexible, Robust Services for Queries, Mutations, and Subscriptions
+  - Bruce Williams and Ben Wilson
+  - 2018
+  - https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe 
+  
+- Adopting Elixir: From Concept to Production
+  - Ben Marx, José Valim, Bruce Tate
+  - 2018
+  
+- Learn Functional Programming with Elixir: New Foundations for a New World
+  - Ulisses Almeida
+  - 2018
+  - https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir
+  
 - Programming Elixir 1.6: Functional |> Concurrent |> Pragmatic |> Fun
   - Dave Thomas
   - 2018
