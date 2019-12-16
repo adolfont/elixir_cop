@@ -23,6 +23,7 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 
 - Developer on Fire, Episode 125 | José Valim - Peaks and Valleys https://developeronfire.com/podcast/episode-125-jose-valim-peaks-and-valleys
 
+- Functional Geekery Episode 125 – Verónica López https://www.functionalgeekery.com/episode-125-veronica-lopez/
 - Functional Geekery Episode 115 – Sam Williams https://www.functionalgeekery.com/episode-115-sam-williams/
 - Functional Geekery Episode 90 – Federico Carrone https://www.functionalgeekery.com/episode-90-federico-carrone/
 - Functional Geekery Episode 79 – Lennart Fridén https://www.functionalgeekery.com/episode-79-lennart-friden/
