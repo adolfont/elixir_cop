@@ -31,5 +31,7 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 - Linguagens Funcionais – Hipsters #91 https://hipsters.tech/linguagens-funcionais-hipsters-91/
 - VAT60 009: Qual o ELIXIR da Plataformatec?  https://www.vat60.com.br/vat60-009-qual-o-elixir-da-plataformatec/
 
+## References
 
+https://elixirforum.com/t/elixir-podcasts/
 
