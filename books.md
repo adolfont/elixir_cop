@@ -71,7 +71,24 @@
   - https://pragprog.com/book/jaerlang2/programming-erlang
   
 
+## From Manning
+
+- Elixir in Action
+  - Saša Jurić
+  - 2019
+  - https://www.manning.com/books/elixir-in-action-second-edition
   
+- The Little Elixir & OTP Guidebook 
+  - Benjamin Tan Wei Hao
+  - 2016
+  - https://www.manning.com/books/the-little-elixir-and-otp-guidebook
+
+- Erlang and OTP in Action 
+  - Martin Logan, Eric Merritt, and Richard Carlsson
+  - 2010
+  - https://www.manning.com/books/erlang-and-otp-in-action
+  
+
 
 # Books with chapters on Elixir/Erlang
 
