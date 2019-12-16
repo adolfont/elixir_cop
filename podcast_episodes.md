@@ -1,5 +1,8 @@
 # Podcast episodes about Elixir/Erlang
 
+Here I list podcast episodes that are related to Elixir/Erlang but are not from one of the ELixir/Erlang [podcasts](podcasts.md).
+
+
 ## English
 
 - The Changelog – Episode #365 - Let's talk Elixir! https://changelog.com/podcast/365
