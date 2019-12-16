@@ -65,6 +65,10 @@
     - Programming Elixir 1.6, 2018, https://pragprog.com/book/elixir16/programming-elixir-1-6
 
 
+- Programming Erlang (2nd edition)
+  - Joe Armstrong
+  - 2013
+  - https://pragprog.com/book/jaerlang2/programming-erlang
   
 
   
@@ -77,6 +81,14 @@
   - The Pragmatic Bookshelf
   - https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks
   
+- Seven Concurrency Models in Seven Weeks: When Threads Unravel
+  -  Paul Butcher
+  - 2014
+  - The Pragmatic Bookshelf
+  - https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
+  - Chapter on Actors
+ 
+ 
 - Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages
   -  Bruce A. Tate
   - 2010
