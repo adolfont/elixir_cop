@@ -12,7 +12,9 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 - Software Engineering Radio, Episode 89: Joe Armstrong on Erlang https://www.se-radio.net/2008/03/episode-89-joe-armstrong-on-erlang/
 - The Bike Shed, 52: You're an Elixir Developer Now https://bikeshed.fm/episodes/52
 - The Bike Shed, 57: Mutability Ruins the Whole Party (José Valim) https://bikeshed.fm/episodes/57
-- Software Engineering Daily, Elixir and Erlang with Jose Valim https://softwareengineeringdaily.com/2016/04/18/elixir-erlang-jose-valim/
+- Software Engineering Daily, Elixir and Erlang with Jose Valim https://softwareengineeringdaily.com/2016/04/18/elixir-erlang-jose-valim/, https://dev.to/sedaily/elixir-and-erlang-with-jose-valim
+- Developer on Fire, Episode 125 | José Valim - Peaks and Valleys https://developeronfire.com/podcast/episode-125-jose-valim-peaks-and-valleys
+
 
 ## Portuguese
 
