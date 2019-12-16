@@ -54,5 +54,5 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 
 ## References
 
-https://elixirforum.com/t/elixir-podcasts/
-
+- Elixir Podcasts on Elixir Forum https://elixirforum.com/t/elixir-podcasts/
+- Tech Podcasts on Elixir Forum https://elixirforum.com/t/tech-podcasts/
