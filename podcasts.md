@@ -53,4 +53,8 @@ Tool used to generate markdown tables: https://www.tablesgenerator.com/markdown_
 
 [Elixir Podcasts by Adolfo Neto](https://medium.com/@adolfont/elixir-podcasts-e9579e073732)
 
+# Erlang podcasts
+
+- Mostly Erlang https://mostlyerlang.wordpress.com/
+
 
