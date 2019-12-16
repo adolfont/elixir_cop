@@ -6,6 +6,8 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 ## English
 
 - The Changelog – Episode #365 - Let's talk Elixir! https://changelog.com/podcast/365
+- The Changelog – Episode #194 - Elixir and the Future of Phoenix https://changelog.com/podcast/194
+- The Changelog – Episode #147 - Elixir and Phoenix https://changelog.com/podcast/147
 - Software Engineering Radio, SE-Radio 336: Saša Jurić on Elixir https://www.se-radio.net/2018/08/se-radio-336-sasa-juric-on-elixir/
 - Software Engineering Radio, Episode 89: Joe Armstrong on Erlang https://www.se-radio.net/2008/03/episode-89-joe-armstrong-on-erlang/
 - The Bike Shed, 52: You're an Elixir Developer Now https://bikeshed.fm/episodes/52
