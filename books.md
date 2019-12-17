@@ -113,6 +113,10 @@
   - 2012
   - http://shop.oreilly.com/product/0636920021452.do
 
+- Erlang Programming: A Concurrent Approach to Software Development
+  - Francesco Cesarini, Simon Thompson 
+  - 2009
+  - http://shop.oreilly.com/product/9780596518189.do
   
 ## From Packt
 
@@ -131,8 +135,6 @@
 ## In preparation
 
 
-  
-  - https://www.amazon.com.br/Erlang-Programming-Concurrent-Approach-Development-ebook/dp/B002L4EXHY/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-5
   - Toy Robot - The Elixir Version https://leanpub.com/elixir-toyrobot
   - Joy of Elixir https://joyofelixir.com/
   - Erlang in Anger http://www.erlang-in-anger.com/
