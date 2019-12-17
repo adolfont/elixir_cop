@@ -116,15 +116,18 @@ Only books in English.
   - 2019
   - https://www.manning.com/books/elixir-in-action-second-edition
 
+
 -  Phoenix in Action
   - Geoffrey Lessel
   - 2019
   - https://www.manning.com/books/phoenix-in-action#reviews
-  
+
+
 - The Little Elixir & OTP Guidebook 
   - Benjamin Tan Wei Hao
   - 2016
   - https://www.manning.com/books/the-little-elixir-and-otp-guidebook
+
 
 - Erlang and OTP in Action 
   - Martin Logan, Eric Merritt, and Richard Carlsson
