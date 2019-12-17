@@ -160,8 +160,16 @@
   - Ryan Bigg
   - 2019
   - https://leanpub.com/elixir-toyrobot
+  
+## From Springer
+
+- Handbook of Neuroevolution Through Erlang
+  - Gene I. Sher
+  - 2013
+  - https://www.springer.com/gp/book/9781461444626
+
  
- ## Indepndent
+## Indepndent
 
 -  Stuff Goes Bad: Erlang in Anger
   - Fred Hebert 
