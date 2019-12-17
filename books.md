@@ -142,7 +142,7 @@ Only books in English.
   - https://www.packtpub.com/application-development/elixir-cookbook
   
 - Mastering Elixir
-  -  André Albuquerque, Daniel Caixinha
+  - André Albuquerque, Daniel Caixinha
   - 2018
   - https://www.packtpub.com/application-development/mastering-elixir
  
@@ -161,7 +161,7 @@ Only books in English.
 ## From Leanpub
 
 - Joy of Elixir
-  - Ryan Bigg and others
+  - Ryan Bigg
   - 2019
   - https://leanpub.com/joyofelixir and https://joyofelixir.com/
   
@@ -181,7 +181,7 @@ Only books in English.
 ## From Apress
 
 - Erlang and Elixir for Imperative Programmers
-  - Loder, Wolfgang 
+  - Wolfgang Loder
   - 2016
   - https://www.apress.com/gp/book/9781484223932
 
@@ -205,8 +205,8 @@ Only books in English.
   - https://blog.stenmans.org/theBeamBook/
   
 - Phoenix Inside Out (book series)
-  - 2017
   - Shankar Dhanasekaran
+  - 2017
   - https://shankardevy.com/phoenix-book/
     
 # Books in development
