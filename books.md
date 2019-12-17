@@ -213,6 +213,12 @@
   - The Pragmatic Bookshelf
   - https://pragprog.com/book/btlang/seven-languages-in-seven-weeks
   
+- Functional Programming: A PragPub Anthology: Exploring Clojure, Elixir, Haskell, Scala, and Swift
+  - Michael Swaine and the PragPub writers
+  - 2017
+  - https://pragprog.com/book/ppanth/functional-programming-a-pragpub-anthology
+
+  
 
 # References
   
