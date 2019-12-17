@@ -158,6 +158,13 @@
   - 2017
   - http://www.erlang-in-anger.com/
     
+    
+# Books in development
+
+- Elixir and Elm Tutorial https://leanpub.com/elixir-elm-tutorial
+- Web Development Using Elixir https://leanpub.com/web-development-using-elixir
+- Building Conduit: Applying CQRS/ES to an Elixir and Phoenix web app https://leanpub.com/buildingconduit
+- Learning Erlang by Example https://leanpub.com/learning_erlang_by_example
   
 # Books with chapters on Elixir/Erlang
 
