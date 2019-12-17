@@ -131,6 +131,16 @@
   - 2015
   - https://www.packtpub.com/application-development/elixir-cookbook
   
+- Mastering Elixir
+  -  André Albuquerque, Daniel Caixinha
+  - 2018
+  - https://www.packtpub.com/application-development/mastering-elixir
+ 
+ - Phoenix Web Development
+   -  Brandon Richey
+   - 2018
+   - https://www.packtpub.com/web-development/phoenix-web-development  
+  
 ## From No Starch Press
  
  - Learn You Some Erlang for Great Good! A Beginner's Guide
