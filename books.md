@@ -185,9 +185,9 @@ Only books in English.
  
 ## Indepndent
 
-- The Erlang Runtime System
+- The Erlang Runtime System (The BEAM book)
   - Erik Stenman
-  - 2018 
+  - 2013 
   - https://blog.stenmans.org/theBeamBook/
 
 -  Stuff Goes Bad: Erlang in Anger
