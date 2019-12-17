@@ -185,16 +185,21 @@ Only books in English.
  
 ## Indepndent
 
-- The Erlang Runtime System (The BEAM book)
-  - Erik Stenman
-  - 2013 
-  - https://blog.stenmans.org/theBeamBook/
+- Phoenix for Rails Developers
+  - Elvio Vicosa
+  - 2017
+  - https://phoenixforrailsdevelopers.com/
 
 -  Stuff Goes Bad: Erlang in Anger
   - Fred Hebert 
   - 2017
   - http://www.erlang-in-anger.com/
-    
+
+
+- The Erlang Runtime System (The BEAM book)
+  - Erik Stenman
+  - 2013 
+  - https://blog.stenmans.org/theBeamBook/
     
 # Books in development
 
