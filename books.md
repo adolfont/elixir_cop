@@ -70,24 +70,7 @@
   - 2013
   - https://pragprog.com/book/jaerlang2/programming-erlang
   
-
-## From Manning
-
-- Elixir in Action
-  - Saša Jurić
-  - 2019
-  - https://www.manning.com/books/elixir-in-action-second-edition
-  
-- The Little Elixir & OTP Guidebook 
-  - Benjamin Tan Wei Hao
-  - 2016
-  - https://www.manning.com/books/the-little-elixir-and-otp-guidebook
-
-- Erlang and OTP in Action 
-  - Martin Logan, Eric Merritt, and Richard Carlsson
-  - 2010
-  - https://www.manning.com/books/erlang-and-otp-in-action
-  
+ 
 
 ## From O'Reilly
 
@@ -123,6 +106,24 @@
   - 2009
   - http://shop.oreilly.com/product/9780596518189.do
   
+
+## From Manning
+
+- Elixir in Action
+  - Saša Jurić
+  - 2019
+  - https://www.manning.com/books/elixir-in-action-second-edition
+  
+- The Little Elixir & OTP Guidebook 
+  - Benjamin Tan Wei Hao
+  - 2016
+  - https://www.manning.com/books/the-little-elixir-and-otp-guidebook
+
+- Erlang and OTP in Action 
+  - Martin Logan, Eric Merritt, and Richard Carlsson
+  - 2010
+  - https://www.manning.com/books/erlang-and-otp-in-action
+  
 ## From Packt
 
 - Elixir Cookbook
@@ -136,13 +137,26 @@
    - Fred Hebert
    - 2013
    - https://nostarch.com/erlang
+
+## From Leanpub
+
+- Joy of Elixir
+  - Ryan Bigg and others
+  - 2019
+  - https://leanpub.com/joyofelixir and https://joyofelixir.com/
   
-## In preparation
 
+- Toy Robot - The Elixir Version
+  - Ryan Bigg
+  - 2019
+  - https://leanpub.com/elixir-toyrobot
+ 
+ ## Indepndent
 
-  - Toy Robot - The Elixir Version https://leanpub.com/elixir-toyrobot
-  - Joy of Elixir https://joyofelixir.com/
-  - Erlang in Anger http://www.erlang-in-anger.com/
+-  Stuff Goes Bad: Erlang in Anger
+  - Fred Hebert 
+  - 2017
+  - http://www.erlang-in-anger.com/
     
   
 # Books with chapters on Elixir/Erlang
