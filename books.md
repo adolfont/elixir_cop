@@ -115,6 +115,11 @@ Only books in English.
   - Saša Jurić
   - 2019
   - https://www.manning.com/books/elixir-in-action-second-edition
+
+-  Phoenix in Action
+  - Geoffrey Lessel
+  - 2019
+  - https://www.manning.com/books/phoenix-in-action#reviews
   
 - The Little Elixir & OTP Guidebook 
   - Benjamin Tan Wei Hao
