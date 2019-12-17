@@ -104,6 +104,22 @@
   - 2015
   - https://www.packtpub.com/application-development/elixir-cookbook
   
+## From No Starch Press
+ 
+ - Learn You Some Erlang for Great Good! A Beginner's Guide
+   - Fred Hebert
+   - 2013
+   - https://nostarch.com/erlang
+  
+## In preparation
+
+  - https://www.amazon.com.br/Designing-Scalability-Erlang-OTP-Fault-Tolerant-ebook/dp/B01FRIM8OK/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-3
+  - https://www.amazon.com.br/Introducing-Erlang-Getting-Functional-Programming-ebook/dp/B06XHSP5SH/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-4
+  - https://www.amazon.com.br/Erlang-Programming-Concurrent-Approach-Development-ebook/dp/B002L4EXHY/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-5
+  - Toy Robot - The Elixir Version https://leanpub.com/elixir-toyrobot
+  - Joy of Elixir https://joyofelixir.com/
+  - Erlang in Anger http://www.erlang-in-anger.com/
+    
   
 # Books with chapters on Elixir/Erlang
 
@@ -127,22 +143,7 @@
   - The Pragmatic Bookshelf
   - https://pragprog.com/book/btlang/seven-languages-in-seven-weeks
   
-  # From No Starch Press
- 
- - Learn You Some Erlang for Great Good! A Beginner's Guide
-   - Fred Hebert
-   - 2013
-   - https://nostarch.com/erlang
-  
-  # In preparation
 
-  - https://www.amazon.com.br/Designing-Scalability-Erlang-OTP-Fault-Tolerant-ebook/dp/B01FRIM8OK/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-3
-  - https://www.amazon.com.br/Introducing-Erlang-Getting-Functional-Programming-ebook/dp/B06XHSP5SH/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-4
-  - https://www.amazon.com.br/Erlang-Programming-Concurrent-Approach-Development-ebook/dp/B002L4EXHY/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=erlang&qid=1576511587&sr=8-5
-  - Toy Robot - The Elixir Version https://leanpub.com/elixir-toyrobot
-  - Joy of Elixir https://joyofelixir.com/
-  - Erlang in Anger http://www.erlang-in-anger.com/
-  
   # References
   
   - https://elixir-lang.org/learning.html#books
