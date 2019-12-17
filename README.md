@@ -12,5 +12,7 @@ Note: As Erlang is deeply related to Elixir, some resources are on Erlang.
 
 [Organizations](organizations.md)
 
+[Newsletters](newsletters.md)
+
 
 
