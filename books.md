@@ -193,7 +193,7 @@ Only books in English.
   - 2017
   - https://phoenixforrailsdevelopers.com/
 
--  Stuff Goes Bad: Erlang in Anger
+- Stuff Goes Bad: Erlang in Anger
   - Fred Hebert 
   - 2017
   - http://www.erlang-in-anger.com/
@@ -225,7 +225,7 @@ Only books in English.
   - https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks
   
 - Seven Concurrency Models in Seven Weeks: When Threads Unravel
-  -  Paul Butcher
+  - Paul Butcher
   - 2014
   - The Pragmatic Bookshelf
   - https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
