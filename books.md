@@ -185,6 +185,11 @@ Only books in English.
  
 ## Indepndent
 
+- The Erlang Runtime System
+  - Erik Stenman
+  - 2018 
+  - https://blog.stenmans.org/theBeamBook/
+
 -  Stuff Goes Bad: Erlang in Anger
   - Fred Hebert 
   - 2017
