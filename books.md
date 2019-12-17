@@ -168,6 +168,13 @@
   - 2013
   - https://www.springer.com/gp/book/9781461444626
 
+## From Apress
+
+- Erlang and Elixir for Imperative Programmers
+  - Loder, Wolfgang 
+  - 2016
+  - https://www.apress.com/gp/book/9781484223932
+
  
 ## Indepndent
 
