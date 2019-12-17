@@ -1,5 +1,7 @@
 # Books on Elixir/Erlang
 
+Only books in English.
+
 ## From The Pragmatic Bookshelf
 
 
