@@ -10,4 +10,7 @@ Note: As Erlang is deeply related to Elixir, some resources are on Erlang.
 
 [Academic papers](https://erlef.org/academic-papers/)
 
-[Erlang Ecosystem Foundation](https://erlef.org/)
+[Organizations](organizations.md)
+
+
+
