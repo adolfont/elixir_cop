@@ -203,6 +203,11 @@ Only books in English.
   - Erik Stenman
   - 2013 
   - https://blog.stenmans.org/theBeamBook/
+  
+- Phoenix Inside Out (book series)
+  - 2017
+  - Shankar Dhanasekaran
+  - https://shankardevy.com/phoenix-book/
     
 # Books in development
 
