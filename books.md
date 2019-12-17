@@ -189,6 +189,6 @@
   - https://pragprog.com/book/btlang/seven-languages-in-seven-weeks
   
 
-  # References
+# References
   
   - https://elixir-lang.org/learning.html#books
