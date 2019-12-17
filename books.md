@@ -241,6 +241,7 @@ Only books in English.
 - Functional Programming: A PragPub Anthology: Exploring Clojure, Elixir, Haskell, Scala, and Swift
   - Michael Swaine and the PragPub writers
   - 2017
+  - The Pragmatic Bookshelf
   - https://pragprog.com/book/ppanth/functional-programming-a-pragpub-anthology
 
   
