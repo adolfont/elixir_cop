@@ -102,6 +102,11 @@
   - 2014
   - http://shop.oreilly.com/product/0636920030584.do
   
+- Études for Erlang
+  - J. Eisenberg 
+  - 2013
+  - http://shop.oreilly.com/product/0636920030034.do
+  
 - Introducing Erlang: Getting Started in Functional Programming
   - Simon St. Laurent   
   - 2013 
