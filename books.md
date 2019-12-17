@@ -223,3 +223,5 @@
 # References
   
   - https://elixir-lang.org/learning.html#books
+  - https://elixirforum.com/t/list-of-elixir-and-erlang-books/
+  - https://github.com/h4cc/awesome-elixir#books
