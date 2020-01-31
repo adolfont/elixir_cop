@@ -247,7 +247,7 @@
 
 ## From Altenwald Books
 
--  Elixir: Introducción para Alquimistas 
+- Elixir: Introducción para Alquimistas 
   - Manuel Ángel Rubio Jiménez
   - 2018
   - https://www.goodreads.com/book/show/43258555-elixir
