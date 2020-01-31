@@ -245,7 +245,7 @@
 
 # Books on Elixir/Erlang in Spanish
 
-## Altenwald Books
+## From Altenwald Books
 
 -  Elixir: Introducción para Alquimistas 
   - Manuel Ángel Rubio Jiménez
