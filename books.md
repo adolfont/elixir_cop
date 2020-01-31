@@ -1,6 +1,5 @@
-# Books on Elixir/Erlang
+# Books on Elixir/Erlang in English
 
-Only books in English.
 
 ## From The Pragmatic Bookshelf
 
@@ -244,7 +243,27 @@ Only books in English.
   - The Pragmatic Bookshelf
   - https://pragprog.com/book/ppanth/functional-programming-a-pragpub-anthology
 
+# Books on Elixir/Erlang in Spanish
+
+## Altenwald Books
+
+-  Elixir: Introducción para Alquimistas 
+  - Manuel Ángel Rubio Jiménez
+  - 2018
+  - https://www.goodreads.com/book/show/43258555-elixir
   
+- Erlang/OTP Volumen I: Un Mundo Concurrente 
+  - Manuel Ángel Rubio Jiménez
+  - 2018
+  - https://www.goodreads.com/book/show/42380731-erlang-otp-volumen-i
+
+- Erlang/OTP Volumen II: Las Bases de OTP 
+  - Manuel Ángel Rubio Jiménez
+  - 2018
+  - https://www.goodreads.com/book/show/42380731-erlang-otp-volumen-i
+
+  
+
 
 # References
   
