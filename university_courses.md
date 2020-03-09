@@ -48,3 +48,14 @@ Below I will list in text format some information about the university courses t
 - Links: [Syllabus](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PCS3556&codcur=3032&codhab=5060)  [2018](https://edisciplinas.usp.br/course/view.php?id=60568)  [2019](https://edisciplinas.usp.br/enrol/index.php?id=66248)
 - Offered in: 2018, 2019
 - Campus: São Paulo
+
+---
+
+- Course name: Concurrent Programming (SSC0742 - Programação Concorrente)
+- Language(s): Erlang 
+  - Observation: It is not a course about Erlang or Functional Programming.
+- Instructor: Paulo Sérgio Lopes de Souza
+- Hours: ??
+- Links: https://edisciplinas.usp.br/course/view.php?id=65023
+- Offered in: 2018
+- Campus: São Carlos
