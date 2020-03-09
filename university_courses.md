@@ -55,7 +55,7 @@ Below I will list in text format some information about the university courses t
 - Language(s): Erlang 
   - Observation: It is not a course about Erlang or Functional Programming.
 - Instructor: Paulo Sérgio Lopes de Souza
-- Hours: ??
-- Links: https://edisciplinas.usp.br/course/view.php?id=65023
+- Hours: 105
+- Links: [Syllabus](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=SSC0742&print=true) and [Web page](https://edisciplinas.usp.br/course/view.php?id=65023)
 - Offered in: 2018
 - Campus: São Carlos
