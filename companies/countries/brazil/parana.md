@@ -1,5 +1,1 @@
-# Curitiba
-
-## Usa Elixir em Produção
-
-- BCredi https://www.bcredi.com.br/
+Ver https://github.com/adolfont/elixir_cop/wiki
