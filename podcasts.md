@@ -13,6 +13,11 @@ Last update: June 26, 2020
 | June 25, 2020 | 56            | Elixir Wizards  | https://podcast.smartlogic.io/ |
 | October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
 
+
+
+Last update: December, 2019
+
+
 ### Additional Links
 
 | Name            |                     RSS                     |               Audio distribution site | First episode     | Twitter                            |
