@@ -6,11 +6,11 @@ Last update: December 2nd, 2019
 
 |   Latest episode  | # of episodes | Name            | Site                           |
 |:-----------------:|--------------:|-----------------|--------------------------------|
-|   August 9, 2019  |            85 | Elixir Fountain | http://www.elixirfountain.com/ |
-|  October 24, 2019 |            57 | Elixir Talk     | http://elixirtalk.com/         |
-| November 21, 2019 |            59 | Elixir Outlaws  | https://elixiroutlaws.com/     |
-| November 26, 2019 | 79            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
-| November 28, 2019 | 25            | Elixir Wizards  | https://podcast.smartlogic.io/ |
+|   August 9, 2019  |            85 | Elixir Fountain | https://soundcloud.com/elixirfountain (this link is now broken http://www.elixirfountain.com/) |
+|  May 26, 2020 |            64 | Elixir Talk     | http://elixirtalk.com/         |
+| June 4, 2020 |            74 | Elixir Outlaws  | https://elixiroutlaws.com/     |
+| June 16, 2020 | 96            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
+| June 25, 2020 | 56            | Elixir Wizards  | https://podcast.smartlogic.io/ |
 | October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
 
 ### Additional Links
@@ -50,8 +50,6 @@ Tool used to generate markdown tables: https://www.tablesgenerator.com/markdown_
 ## Erlang podcasts
 
 - Mostly Erlang https://mostlyerlang.wordpress.com/
-
-
 
 
 ## References
