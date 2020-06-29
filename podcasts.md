@@ -2,7 +2,7 @@
 
 ## Status of Elixir Podcasts
 
-Last update: December 2nd, 2019
+Last update: June 26, 2020
 
 |   Latest episode  | # of episodes | Name            | Site                           |
 |:-----------------:|--------------:|-----------------|--------------------------------|
