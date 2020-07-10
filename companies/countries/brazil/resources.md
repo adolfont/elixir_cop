@@ -4,7 +4,10 @@
 
 - Canal do [Gustavo Oliveira](https://www.youtube.com/channel/UCl_BBK2sXZzQy_3ziNU7-XA)
 
+
 ### Playlists
+
+- [Emílias Programando](https://www.youtube.com/watch?v=gJ-1xUlD8sY&list=PLF5ttO8F-IsT16ozoGdrWLzxAU9IMuJKS)
 
 ### Vídeos específicos
 - [A linguagem Elixir - Alura Live #80](https://youtu.be/VGLhnZr1zWM), , com Charlotte Lorelei 
@@ -14,3 +17,4 @@
 - [Introdução a Elixir | #livecoding - com Leandro Bighetti](https://youtu.be/sReZI1izRZI)
 - [O case da Plataformatec com o Elixir - Hugo Baraúna](https://youtu.be/XnEAllPTNWw)
 - [É sobre runtime: Elixir por baixo dos panos, com Renan Milhouse Ranelli (Elixir Brasil 2018)](https://youtu.be/GQd6txh125w)
+- [Introduçao a Programaçao Funcional em Elixir](https://youtu.be/dqg1lgYERHY)
