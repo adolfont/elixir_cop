@@ -47,3 +47,10 @@
 
 - Elixir Brasil https://www.facebook.com/groups/596782640402615/
 - Elixir lang Brasil https://www.facebook.com/groups/763271297082410/
+
+
+## Episódios de Podcasts
+
+- [Filipe Varjão: Engenheiro de Software na Erlang Solutions](https://anchor.fm/adolfont/episodes/Filipe-Varjo-Engenheiro-de-Software-na-Erlang-Solutions-eeleht/a-a2ajnoa)
+- [Série Elixir no Grok Podcast](https://www.grokpodcast.com.br/series/elixir/)
+- [Série Erlang no Grok Podcast](https://www.grokpodcast.com.br/series/erlang/)
