@@ -12,3 +12,5 @@
 - [Elixir (A Linguagem Funcional Brasileira) // Dicionário do Programador](https://youtu.be/ypnqB7XR26Q)
 - [Introdução a Programação Funcional com Elixir](https://youtu.be/dB6M4Hwv6cY)
 - [Introdução a Elixir | #livecoding - com Leandro Bighetti](https://youtu.be/sReZI1izRZI)
+- [O case da Plataformatec com o Elixir - Hugo Baraúna](https://youtu.be/XnEAllPTNWw)
+- [É sobre runtime: Elixir por baixo dos panos, com Renan Milhouse Ranelli (Elixir Brasil 2018)](https://youtu.be/GQd6txh125w)
