@@ -54,3 +54,8 @@
 - [Filipe Varjão: Engenheiro de Software na Erlang Solutions](https://anchor.fm/adolfont/episodes/Filipe-Varjo-Engenheiro-de-Software-na-Erlang-Solutions-eeleht/a-a2ajnoa)
 - [Série Elixir no Grok Podcast](https://www.grokpodcast.com.br/series/elixir/)
 - [Série Erlang no Grok Podcast](https://www.grokpodcast.com.br/series/erlang/)
+- [Elixir, a linguagem hipster – Hipsters #48](https://hipsters.tech/elixir-a-linguagem-hipster-hipsters-48/)
+- [Elixir e Open Banking na Stone – Hipsters On The Road #33](https://hipsters.tech/elixir-e-open-banking-na-stone-hipsters-on-the-road-33/)
+- [Node, Serverless, Elixir: a stack da Kovi – Hipsters On The Road #11](https://hipsters.tech/node-serverless-elixir-a-stack-da-kovi-hipsters-on-the-road-11/)
+- [Linguagens Funcionais – Hipsters #91](https://hipsters.tech/linguagens-funcionais-hipsters-91/)
+- 
