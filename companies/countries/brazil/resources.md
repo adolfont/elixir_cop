@@ -1,3 +1,5 @@
+# Recursos sobre Elixir em português 
+
 ## YouTube
 
 ### Canais
@@ -23,3 +25,5 @@
 - [Introduçao a Programaçao Funcional em Elixir](https://youtu.be/dqg1lgYERHY)
 - [Elixir e Phoenix | Amanda Sposito | Papo Reto | T3E3](https://youtu.be/xcKDGZntkdg)
 - [Phoenix, o melhor web framework](https://youtu.be/zhTisehGoV8)
+
+## Twitch
