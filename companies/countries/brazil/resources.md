@@ -60,6 +60,7 @@
 - [Linguagens Funcionais – Hipsters #91](https://hipsters.tech/linguagens-funcionais-hipsters-91/)
 - [Sudocast #14 - Programação Funcional 101](https://www.sudocast.com.br/14-programacao-funcional-101/) 
 - [Castálio Podcast - Episódio 103: Linguagem de Programação Elixir](https://castalio.info/episodio-103-linguagem-de-programacao-elixir.html)
+- [VAT60 009: Qual o ELIXIR da Plataformatec?](https://www.vat60.com.br/vat60-009-qual-o-elixir-da-plataformatec/)
 
 
 ##  Repositórios para Aprendizagem
