@@ -37,3 +37,11 @@
 - ElugRN https://t.me/ElugRN 
 - Elixir |> CWB https://t.me/elixir_cwb
 - Erlang Brasil https://t.me/erlangbr
+
+## Facebook 
+
+
+### Grupos
+
+- Elixir Brasil https://www.facebook.com/groups/596782640402615/
+- Elixir lang Brasil https://www.facebook.com/groups/763271297082410/
