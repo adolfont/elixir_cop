@@ -58,5 +58,10 @@
 - [Elixir e Open Banking na Stone – Hipsters On The Road #33](https://hipsters.tech/elixir-e-open-banking-na-stone-hipsters-on-the-road-33/)
 - [Node, Serverless, Elixir: a stack da Kovi – Hipsters On The Road #11](https://hipsters.tech/node-serverless-elixir-a-stack-da-kovi-hipsters-on-the-road-11/)
 - [Linguagens Funcionais – Hipsters #91](https://hipsters.tech/linguagens-funcionais-hipsters-91/)
-- [Sudocast #14 - Programação Funcional 101] (https://www.sudocast.com.br/14-programacao-funcional-101/) 
+- [Sudocast #14 - Programação Funcional 101](https://www.sudocast.com.br/14-programacao-funcional-101/) 
 - [Castálio Podcast - Episódio 103: Linguagem de Programação Elixir](https://castalio.info/episodio-103-linguagem-de-programacao-elixir.html)
+
+
+##  Repositórios para Aprendizagem
+
+- [Elixir4Noobs](https://github.com/aleDsz/elixir4noobs)
