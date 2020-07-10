@@ -4,6 +4,7 @@
 
 - Canal do [Jean Carlos](https://www.youtube.com/channel/UCjSFU-9JUt2ATyjomcsRgSQ) #codehints
 - Canal do [Gustavo Oliveira](https://www.youtube.com/channel/UCl_BBK2sXZzQy_3ziNU7-XA)
+- Canal do [Eber Freitas Dias](https://www.youtube.com/channel/UCWXdamNzYUTqesb2ejGzzIQ)
 
 
 ### Playlists
