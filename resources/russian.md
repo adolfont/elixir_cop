@@ -1,3 +1,6 @@
 ## Telegram groups
 
-- ErlangRus https://t.me/erlangrus "Толки о Erlang, IT и работе." "Conversations about Erlang, IT and work."
+
+https://t.me/erlangrus ErlangRus "Толки о Erlang, IT и работе." "Conversations about Erlang, IT and work."
+
+https://t.me/proelixir pro.elixir "Elixir - это функциональный язык программирования общего назначения, который работает на виртуальной машине Erlang." "Elixir is a functional general-purpose programming language that runs on the Erlang virtual machine."
