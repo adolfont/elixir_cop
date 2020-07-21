@@ -9,6 +9,7 @@
 - Canal do [Eber Freitas Dias](https://www.youtube.com/channel/UCWXdamNzYUTqesb2ejGzzIQ): Fazendo um jogo com Elixir/Phoenix/LiveView
 - Canal do [Thiago Guimarães](https://www.youtube.com/channel/UC2_fWMqS650QlK-N73r6fjQ): contém a série de como desenvolver uma API usando Elixir com Phoenix Framework.
 - Canal do [Allef Gomes](https://www.youtube.com/channel/UCOZlyE-2TWCZWEDafcGSltg)
+- Canal [Lottinha Programa](https://www.youtube.com/channel/UC_gYKAD3-dvl8fvC9j-OGBQ)
 
 
 ### Playlists
