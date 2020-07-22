@@ -5,7 +5,7 @@
 ### Canais
 
 - Canal do [Jean Carlos](https://www.youtube.com/channel/UCjSFU-9JUt2ATyjomcsRgSQ) #codehints
-- Canal do [Gustavo Oliveira](https://www.youtube.com/channel/UCl_BBK2sXZzQy_3ziNU7-XA): diversos vídeos
+- Canal do [Gustavo Oliveira](https://www.youtube.com/channel/UCl_BBK2sXZzQy_3ziNU7-XA): diversos vídeos, inclusive a lista [Guia Definitivo Elixir](https://www.youtube.com/playlist?list=PLEs0qgZpGeOVQFnsN9t93rr5KjlKGU2oS)
 - Canal do [Eber Freitas Dias](https://www.youtube.com/channel/UCWXdamNzYUTqesb2ejGzzIQ): Fazendo um jogo com Elixir/Phoenix/LiveView
 - Canal do [Thiago Guimarães](https://www.youtube.com/channel/UC2_fWMqS650QlK-N73r6fjQ): contém a série de como desenvolver uma API usando Elixir com Phoenix Framework.
 - Canal do [Allef Gomes](https://www.youtube.com/channel/UCOZlyE-2TWCZWEDafcGSltg)
