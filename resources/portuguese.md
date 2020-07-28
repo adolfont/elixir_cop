@@ -28,6 +28,7 @@
 - [Elixir e Phoenix | Amanda Sposito | Papo Reto | T3E3](https://youtu.be/xcKDGZntkdg)
 - [Phoenix, o melhor web framework](https://youtu.be/zhTisehGoV8)
 - [Conhecendo Elixir com Ana C. Lopes](https://youtu.be/tBnO6KIbQ0c)
+- [Recursos relacionados à linguagem de programação Elixir](https://youtu.be/SeOEdGtAwv0)
 
 ## Twitch
 
