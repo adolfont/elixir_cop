@@ -1,3 +1,5 @@
+# Actors in the BEAM community that are relatively active on Twitter
+
 José Valim, creator of Elixir	https://twitter.com/josevalim
 
 Francesco Cesarini, book author, founder and technical director at Erlang Solutions https://twitter.com/FrancescoC
@@ -10,11 +12,12 @@ Andrea Leopardi, member of the Elixir core team	https://twitter.com/whatyouhide
 
 Martin Gausby, Senior Elixir Developer at Erlang Solutions	https://twitter.com/gausby
 
-Frank Hunleth	https://twitter.com/fhunleth
+Frank Hunleth, creator and co-author of the Nerves Project	https://twitter.com/fhunleth
 
-Louis Pilfold	https://twitter.com/louispilfold
+Louis Pilfold, Designer of Gleam language 	https://twitter.com/louispilfold
 
-Sophie DeBenedetto	https://twitter.com/sm_debenedetto
+Sophie DeBenedetto, software engineer at GitHub
+	https://twitter.com/sm_debenedetto
 
 Laura M. Castro	https://twitter.com/lauramcastro
 
