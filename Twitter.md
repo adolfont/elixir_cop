@@ -22,8 +22,8 @@ Sophie DeBenedetto, software engineer at GitHub, co-host the Elixir Mix podcast 
 
 Laura M. Castro, Associate professor and researcher at Universidade da Coruña	https://twitter.com/lauramcastro
 
-Brujo Benavides	https://twitter.com/elbrujohalcon
+Brujo Benavides, Erlang Developer & Trainer, SpawnFest, and ElixirConfLA organizer https://twitter.com/elbrujohalcon
 
-Annette Bieniusa	https://twitter.com/anne_biene
+Annette Bieniusa, Researcher and lecturer at TU Kaiserslautern, co-chair of Erlnag Workshop 2020	https://twitter.com/anne_biene
 
-Juan Facorro	https://twitter.com/jfacorro
+Juan Facorro, creator of Clojerl	https://twitter.com/jfacorro
