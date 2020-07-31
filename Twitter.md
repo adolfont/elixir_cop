@@ -1,14 +1,14 @@
-José Valim	https://twitter.com/josevalim
+José Valim, creator of Elixir	https://twitter.com/josevalim
 
-Francesco Cesarini	https://twitter.com/FrancescoC
+Francesco Cesarini, book author, founder and technical director at Erlang Solutions https://twitter.com/FrancescoC
 
-Robert Virding	https://twitter.com/rvirding
+Robert Virding, co-creator of Erlang	https://twitter.com/rvirding
 
-Bruce Tate	https://twitter.com/redrapids
+Bruce Tate, book author, trainer and founder at Grox.io	https://twitter.com/redrapids
 
-Andrea Leopardi	https://twitter.com/whatyouhide
+Andrea Leopardi, member of the Elixir core team	https://twitter.com/whatyouhide
 
-Martin Gausby	https://twitter.com/gausby
+Martin Gausby, Senior Elixir Developer at Erlang Solutions	https://twitter.com/gausby
 
 Frank Hunleth	https://twitter.com/fhunleth
 
