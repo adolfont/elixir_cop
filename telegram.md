@@ -18,9 +18,7 @@
 ## Russian
 
 - ErlangRus https://t.me/erlangrus  "Толки о Erlang, IT и работе." "Conversations about Erlang, IT and work."
-
 - pro.elixir https://t.me/proelixir  "Elixir - это функциональный язык программирования общего назначения, который работает на виртуальной машине Erlang." "Elixir is a functional general-purpose programming language that runs on the Erlang virtual machine."
-
 - Эликсир и Вунш https://t.me/wunsh "Русскоязычное сообщество эликсирщиков. Отвечаем на вопросы, рассказываем о новых классных библиотеках, делимся..." "Russian-speaking community of elixirists. We answer questions, talk about new cool libraries, share..."
 
 ## Spanish 
