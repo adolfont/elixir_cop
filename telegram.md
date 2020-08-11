@@ -30,3 +30,11 @@
 
 - Erlang → Elixir → N2O  https://t.me/devn2o  "N2ODEV is an open-source foundation for ERP¹. Here you can find HTML/ROFF documentation and user manuals that cover family of N2O libraries." Not only Ukrainian, but Russian and English too.
 
+
+# Elixir, Erlang, BEAM Telegram Channels
+
+- Elixir Feed https://t.me/ElixirlangFeed
+- Elixir Tweets https://t.me/elixirtweets
+- Elixir Conferences https://t.me/elixirconferences
+- Elixir Jobs https://t.me/elixir_jobs
+
