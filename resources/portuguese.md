@@ -56,6 +56,7 @@
 
 ## Episódios de Podcasts
 
+- [Ética no Desenvolvimento de Software & Elixir, com Ruan Brandão](https://anchor.fm/adolfont/episodes/tica-no-Desenvolvimento-de-Software--Elixir--com-Ruan-Brando-eie3l1/a-a30dnc0)
 - [Filipe Varjão: Engenheiro de Software na Erlang Solutions](https://anchor.fm/adolfont/episodes/Filipe-Varjo-Engenheiro-de-Software-na-Erlang-Solutions-eeleht/a-a2ajnoa)
 - [Série Elixir no Grok Podcast](https://www.grokpodcast.com.br/series/elixir/)
 - [Série Erlang no Grok Podcast](https://www.grokpodcast.com.br/series/erlang/)
