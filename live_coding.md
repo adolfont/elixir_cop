@@ -13,6 +13,7 @@
 ## Not exclusively Elixir 
 
 [JustCodeCats](https://www.youtube.com/channel/UC89VM7F1kTbYwj4k152GM5Q)
+  - [Contributing to Open Source: Edeliver - Learning: Elixir (Phoenix Framework) - Part 8 - 10-02-2020](https://youtu.be/4CV2DbTK5UY)
   - [Learning: Elixir (Phoenix Framework) - Part 1 - Programming Stream - 06-06-2018](https://www.youtube.com/watch?v=7bvntqrHLgM)
   - [Learning: Elixir (Phoenix Framework) - Part 2 - Programming Stream - 16-06-2018](https://www.youtube.com/watch?v=ol1YY0escRw)
   - [Learning: Elixir (Phoenix Framework) - Part 3 - Programming Stream - 04-07-2018](https://www.youtube.com/watch?v=SGS8NzZIfCk)
