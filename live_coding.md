@@ -8,13 +8,9 @@
 
 [Groxio](https://www.youtube.com/c/groxio)
 
-Philip Sampaio [Twitch](https://www.twitch.tv/philipsampaio), [YouTube](https://www.youtube.com/user/philss77), [Twitter](https://twitter.com/philipsampaio) Here are [notes](https://github.com/philss/live-streaming) about his videos. Streams in Portuguese.
-  - [13o episódio: consertando testes na lib Floki. Programando em Elixir (Portuguese)](https://www.youtube.com/watch?v=-85hbrWUt94)
-  - [21o episódio: Um pouco mais do parser de HTML - programando em Elixir (Portuguese)](https://www.youtube.com/watch?v=ymlUSOkP1bI)
-  - [22o episódio: O dia em que recebi um PR do criador da linguagem - programando em Elixir (Portuguese)](https://www.youtube.com/watch?v=eRbYi04kMAI)
-  - [23o episódio: Continuando no parser de HTML - programando em Elixir (Portuguese)](https://www.youtube.com/watch?v=Wqh3j00JReI)
-  - [24o episódio: Uma web app de pomodoro com Phoenix LiveView - programando em Elixir (Portuguese)](https://www.twitch.tv/videos/676853816)
-  - [25o episódio: Programando o backend do Juntin.app com o Bruno Jabs - programando em Elixir (e Elm)](https://www.twitch.tv/videos/699543718)
+Philip Sampaio [Twitch](https://www.twitch.tv/philipsampaio), [YouTube](https://www.youtube.com/user/philss77), [Github](https://github.com/philss), [Twitter](https://twitter.com/philipsampaio). Streams in Portuguese.
+
+- Videos and video notes are listed [here](https://github.com/philss/live-streaming).
 
 [TopTechSkills.com](https://www.youtube.com/playlist?list=PLMyOob-UkeyvJ6-RAFvDdomQ-1DdKcYUt)
 
