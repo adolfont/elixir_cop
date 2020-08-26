@@ -8,6 +8,10 @@
 
 [Groxio](https://www.youtube.com/c/groxio)
 
+Philip Sampaio [Twitch](https://www.twitch.tv/philipsampaio), [YouTube](https://www.youtube.com/user/philss77), [Github](https://github.com/philss), [Twitter](https://twitter.com/philipsampaio). Streams in Portuguese.
+
+- Videos and video notes are listed [here](https://github.com/philss/live-streaming).
+
 [TopTechSkills.com](https://www.youtube.com/playlist?list=PLMyOob-UkeyvJ6-RAFvDdomQ-1DdKcYUt)
 
 ## Not exclusively Elixir 
@@ -19,5 +23,3 @@
   - [Learning: Elixir (Phoenix Framework) - Part 3 - Programming Stream - 04-07-2018](https://www.youtube.com/watch?v=SGS8NzZIfCk)
 
 [Seb the cat](https://www.twitch.tv/sebthecat_com). Also on [YouYube](https://www.youtube.com/channel/UCVQ2Rt-GlX3ptQ94GUtulmQ/). Example: [Connecting Godot to a Elixir Phoenix Server - Stream Highlights](https://www.youtube.com/watch?v=70sujKBvv3k)
-
-
