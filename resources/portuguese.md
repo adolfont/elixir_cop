@@ -32,7 +32,8 @@
 - [Voce Nao Sabe LiveView 1.5 #1](https://youtu.be/pKBpzpMwEm0)
 - [Elixir + Orientado a Objeto vs Funcional + Clojurescript = 1º Lambda I/O Sampa (vlog)](https://youtu.be/aLrarQSPtT8)
 - [Introdução a programação funcional com Erlang](https://youtu.be/y3XB_G7yEzE)
-- 
+- [The Elixir of Life por Fabio Akita - DevInSantos 2015](https://www.youtube.com/watch?v=8Ng6TfAj7Sk) [Slides](https://pt.slideshare.net/akitaonrails/elixir-of-life-dev-in-santos)
+
 
 ## Twitch
 
