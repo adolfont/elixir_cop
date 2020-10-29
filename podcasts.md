@@ -56,6 +56,13 @@ Tool used to generate markdown tables: https://www.tablesgenerator.com/markdown_
 
 - Mostly Erlang https://mostlyerlang.wordpress.com/
 
+The first episode was published on April 19, 2013 and it is still available at https://mostlyerlang.wordpress.com/2013/04/19/building-skynet/ 
+
+The last episode of Mostly Erlang, #69, "Why Should You Major in Computer Science?", was published on July 7, 2015 
+https://mostlyerlang.wordpress.com/2015/07/07/we-are-back-with-episode-69-why-should-you-major-in-computer-science/
+
+[Thread on Mostly Erlang](https://twitter.com/adolfont/status/1321780535526641664?s=20)
+
 
 ## References
 
