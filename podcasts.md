@@ -64,6 +64,13 @@ https://mostlyerlang.wordpress.com/2015/07/07/we-are-back-with-episode-69-why-sh
 [Thread on Mostly Erlang](https://twitter.com/adolfont/status/1321780535526641664?s=20)
 
 
+I am listening to Mostly Erlang 019 Elixir With José Valim 
+October 7, 2013
+with @bryan_hunter @josevalim @simonstl @rvirding @joeerl @mononcqc and @ericbmerritt
+#myelixirstatus 
+https://anchor.fm/adolfo-neto/episodes/Mostly-Erlang-019-Elixir-With-Jos-Valim-elo8h6/a-a3mjeit
+
+
 ## References
 
 [Podcasts and Screencasts](https://github.com/elixir-lang/elixir/wiki/Podcasts-and-Screencasts)
