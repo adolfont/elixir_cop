@@ -62,14 +62,25 @@
 
 ## Episódios de Podcasts
 
-- [Ética no Desenvolvimento de Software & Elixir, com Ruan Brandão](https://anchor.fm/adolfont/episodes/tica-no-Desenvolvimento-de-Software--Elixir--com-Ruan-Brando-eie3l1/a-a30dnc0)
-- [Filipe Varjão: Engenheiro de Software na Erlang Solutions](https://anchor.fm/adolfont/episodes/Filipe-Varjo-Engenheiro-de-Software-na-Erlang-Solutions-eeleht/a-a2ajnoa)
+
+### Grok Podcast
 - [Série Elixir no Grok Podcast](https://www.grokpodcast.com.br/series/elixir/)
 - [Série Erlang no Grok Podcast](https://www.grokpodcast.com.br/series/erlang/)
+
+### Podcast do Professor Adolfo Neto
+
+- [Filipe Varjão: Engenheiro de Software na Erlang Solutions](https://anchor.fm/adolfont/episodes/Filipe-Varjo-Engenheiro-de-Software-na-Erlang-Solutions-eeleht/a-a2ajnoa)
+- [Ética no Desenvolvimento de Software & Elixir, com Ruan Brandão](https://anchor.fm/adolfont/episodes/tica-no-Desenvolvimento-de-Software--Elixir--com-Ruan-Brando-eie3l1/a-a30dnc0)
+- [Guilherme de Maio: Desenvolvedor com foco em Back-End e um dos organizadores do ELUG São Paulo](https://anchor.fm/adolfont/episodes/Guilherme-de-Maio-Desenvolvedor-com-foco-em-Back-End-e-um-dos-organizadores-do-ELUG-So-Paulo-ej2o1o/a-a345kcv)
+- [Charlotte de Oliveira: Engenheira de Software Senior especialista em Elixir](https://anchor.fm/adolfont/episodes/Charlotte-de-Oliveira-Engenheira-de-Software-Senior-especialista-em-Elixir-ekpr61)
+
+### Hipsters.Tech
 - [Elixir, a linguagem hipster – Hipsters #48](https://hipsters.tech/elixir-a-linguagem-hipster-hipsters-48/)
 - [Elixir e Open Banking na Stone – Hipsters On The Road #33](https://hipsters.tech/elixir-e-open-banking-na-stone-hipsters-on-the-road-33/)
 - [Node, Serverless, Elixir: a stack da Kovi – Hipsters On The Road #11](https://hipsters.tech/node-serverless-elixir-a-stack-da-kovi-hipsters-on-the-road-11/)
 - [Linguagens Funcionais – Hipsters #91](https://hipsters.tech/linguagens-funcionais-hipsters-91/)
+
+### Outros
 - [Sudocast #14 - Programação Funcional 101](https://www.sudocast.com.br/14-programacao-funcional-101/) 
 - [Castálio Podcast - Episódio 103: Linguagem de Programação Elixir](https://castalio.info/episodio-103-linguagem-de-programacao-elixir.html)
 - [VAT60 009: Qual o ELIXIR da Plataformatec?](https://www.vat60.com.br/vat60-009-qual-o-elixir-da-plataformatec/)
