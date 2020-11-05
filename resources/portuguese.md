@@ -33,6 +33,8 @@
 - [Elixir + Orientado a Objeto vs Funcional + Clojurescript = 1º Lambda I/O Sampa (vlog)](https://youtu.be/aLrarQSPtT8)
 - [Introdução a programação funcional com Erlang](https://youtu.be/y3XB_G7yEzE)
 - [The Elixir of Life por Fabio Akita - DevInSantos 2015](https://www.youtube.com/watch?v=8Ng6TfAj7Sk) [Slides](https://pt.slideshare.net/akitaonrails/elixir-of-life-dev-in-santos)
+- [Elixir com José Valim // Live #61, Rodrigo Branas](https://www.youtube.com/watch?v=EXE7NUxBKrk)
+- [Impulso Talks: Elixir](https://youtu.be/Flh9mKhVg7k)
 
 
 ## Twitch
@@ -71,6 +73,9 @@
 - [Sudocast #14 - Programação Funcional 101](https://www.sudocast.com.br/14-programacao-funcional-101/) 
 - [Castálio Podcast - Episódio 103: Linguagem de Programação Elixir](https://castalio.info/episodio-103-linguagem-de-programacao-elixir.html)
 - [VAT60 009: Qual o ELIXIR da Plataformatec?](https://www.vat60.com.br/vat60-009-qual-o-elixir-da-plataformatec/)
+- [5x20 - Tag #44: Elixir](https://podtag.com.br/tag-44-elixir) Nesse episódio, conversamos com George Guimarães sobre Elixir, a linguagem brasileira funcional que tem conquistado o mercado e o coração de devs no mundo todo
+
+
 
 
 ##  Repositórios para Aprendizagem
