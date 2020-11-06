@@ -6,13 +6,13 @@ Latest update: November 6, 2020
 
 |   Latest episode  | # of episodes | Name            | Site                           |
 |:-----------------:|--------------:|-----------------|--------------------------------|
-|   August 9, 2019  |            85 | Elixir Fountain | https://soundcloud.com/elixirfountain (this link is now broken http://www.elixirfountain.com/) |
-|  May 26, 2020 |            64 | Elixir Talk     | http://elixirtalk.com/         |
-| October 15, 2020 |            84 | Elixir Outlaws  | https://elixiroutlaws.com/     |
-| November 3, 2020 | 114            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
-| October 15, 2020 | 74            | Elixir Wizards  | https://podcast.smartlogic.io/ |
-| October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
 | November 3, 2020   | 21            | Thinking Elixir Podcast      | https://thinkingelixir.com/the-podcast/        |
+| November 3, 2020 | 114            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
+| October 15, 2020 |            84 | Elixir Outlaws  | https://elixiroutlaws.com/     |
+| October 15, 2020 | 74            | Elixir Wizards  | https://podcast.smartlogic.io/ |
+| May 26, 2020 |            64 | Elixir Talk     | http://elixirtalk.com/         |
+| August 9, 2019  |            85 | Elixir Fountain | https://soundcloud.com/elixirfountain (this link is now broken http://www.elixirfountain.com/) |
+| October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
 
 
 
@@ -22,11 +22,11 @@ Latest update: November 6, 2020
 |-----------------|:-------------------------------------------:|--------------------------------------:|-------------------|------------------------------------|
 | Elixir Fountain |       http://feed.elixirfountain.com/       | https://soundcloud.com/elixirfountain | June 9, 2015      | https://twitter.com/elixirfountain |
 | Elixir Talk     |                      ??                     |     https://soundcloud.com/elixirtalk | October 18, 2017  | https://twitter.com/ElixirTalk     |
+| Indielixir      | ??                                          | ??                                    | March 10, 2018    | ??                                 |
 | Elixir Outlaws  | https://feeds.fireside.fm/elixiroutlaws/rss |                                    ?? | April 15, 2018    | https://twitter.com/elixiroutlaws  |
 | Elixir Mix      | https://feeds.feedwrench.com/elixirmix.rss  | ??                                    | May 1, 2018       | https://twitter.com/elixir_mix     |
 | Elixir Wizards  | https://podcast.smartlogic.io/rss           | ??                                    | February 25, 2019 | https://twitter.com/smartlogic     |
-| Indielixir      | ??                                          | ??                                    | March 10, 2018    | ??                                 |
-| Thinking Elixir Podcast  | https://thinkingelixir.com/feed/podcast/           | https://blubrry.com/thinkingelixir/                                    | May 26,  2020 | https://twitter.com/smartlogic     |
+| Thinking Elixir Podcast  | https://thinkingelixir.com/feed/podcast/     | https://blubrry.com/thinkingelixir/   | May 26,  2020 | https://twitter.com/smartlogic     |
 
 
 # Evertyhing below is not up-to-date
