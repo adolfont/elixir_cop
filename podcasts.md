@@ -2,20 +2,18 @@
 
 ## Status of Elixir Podcasts
 
-Last update: June 26, 2020
+Latest update: November 6, 2020
 
 |   Latest episode  | # of episodes | Name            | Site                           |
 |:-----------------:|--------------:|-----------------|--------------------------------|
 |   August 9, 2019  |            85 | Elixir Fountain | https://soundcloud.com/elixirfountain (this link is now broken http://www.elixirfountain.com/) |
 |  May 26, 2020 |            64 | Elixir Talk     | http://elixirtalk.com/         |
-| June 4, 2020 |            74 | Elixir Outlaws  | https://elixiroutlaws.com/     |
-| June 16, 2020 | 96            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
-| June 25, 2020 | 56            | Elixir Wizards  | https://podcast.smartlogic.io/ |
+| October 15, 2020 |            84 | Elixir Outlaws  | https://elixiroutlaws.com/     |
+| November 3, 2020 | 114            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
+| October 15, 2020 | 74            | Elixir Wizards  | https://podcast.smartlogic.io/ |
 | October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
+| November 3, 2020   | 21            | Thinking Elixir Podcast      | https://thinkingelixir.com/the-podcast/        |
 
-
-
-Last update: December, 2019
 
 
 ### Additional Links
