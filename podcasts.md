@@ -26,7 +26,7 @@ Latest update: November 6, 2020
 | Elixir Mix      | https://feeds.feedwrench.com/elixirmix.rss  | ??                                    | May 1, 2018       | https://twitter.com/elixir_mix     |
 | Elixir Wizards  | https://podcast.smartlogic.io/rss           | ??                                    | February 25, 2019 | https://twitter.com/smartlogic     |
 | Indielixir      | ??                                          | ??                                    | March 10, 2018    | ??                                 |
-| Thinking Elixir Podcast  | https://thinkingelixir.com/feed/podcast/           | ??                                    | May 26,  2020 | https://twitter.com/smartlogic     |
+| Thinking Elixir Podcast  | https://thinkingelixir.com/feed/podcast/           | https://blubrry.com/thinkingelixir/                                    | May 26,  2020 | https://twitter.com/smartlogic     |
 
 
 # Evertyhing below is not up-to-date
