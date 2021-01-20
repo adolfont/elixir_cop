@@ -40,6 +40,7 @@
 ## Twitch
 
 - https://twitch.tv/aledsz
+- https://twitch.tv/shamanime
 
 
 ## Telegram
