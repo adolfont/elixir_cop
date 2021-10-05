@@ -2,6 +2,9 @@
 
 ## Status of Elixir Podcasts
 
+Now (October 2021) Elixir School has a page dedicated to podcasts: https://elixirschool.com/en/podcasts
+
+
 Latest update: November 6, 2020
 
 |   Latest episode  | # of episodes | Name            | Site                           |
