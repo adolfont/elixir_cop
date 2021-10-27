@@ -4,7 +4,7 @@
 
 - Elixir Forum  https://elixirforum.com/
   - Related: Erlang Forums https://erlangforums.com/
-- [#elixir on irc.libera.chat](irc://irc.libera.chat/elixir)
+- #elixir on irc.libera.chat irc://irc.libera.chat/elixir
 - [Elixir on Slack](https://elixir-slackin.herokuapp.com/)
 - [Elixir on Discord](https://discord.com/invite/elixir)
 * [Elixir on Reddit](https://www.reddit.com/r/elixir/)
