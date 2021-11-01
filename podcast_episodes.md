@@ -52,6 +52,22 @@ Here I list podcast episodes that are related to Elixir/Erlang but are not from 
 - Linguagens Funcionais – Hipsters #91 https://hipsters.tech/linguagens-funcionais-hipsters-91/
 - VAT60 009: Qual o ELIXIR da Plataformatec?  https://www.vat60.com.br/vat60-009-qual-o-elixir-da-plataformatec/
 
+
+## Interviews with José Valim
+
+[8h40 of podcast episodes with José Valim, the Creator of Elixir.](https://twitter.com/adolfont/status/1454832032710905863)
+
+[José Valim (in Portuguese) talking about Erlang and the origin of Elixir on Grok Podcast (2011)](https://www.grokpodcast.com.br/series/erlang/). [Four years later he went back to talk about Elixir](https://www.grokpodcast.com.br/series/elixir/).
+
+[Mostly Erlang 019 - Elixir With José Valim](https://mostlyerlang.wordpress.com/2013/10/07/019-elixir-with-jose-valim/)
+
+[Mostly Erlang - Tools on Elixir](https://mostlyerlang.wordpress.com/2014/08/11/elixir-tools/)
+
+[Mostly Erlang 054 - Packages](https://mostlyerlang.wordpress.com/2015/01/27/054-packages/)
+
+
+
+
 ## References
 
 - Elixir Podcasts on Elixir Forum https://elixirforum.com/t/elixir-podcasts/
