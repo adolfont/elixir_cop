@@ -1,11 +1,7 @@
 # Elixir and Erlang Podcasts
 
 
-## Interviews with José Valim
 
-[8h40 of podcast episodes with José Valim, the Creator of Elixir.](https://twitter.com/adolfont/status/1454832032710905863)
-
-[José Valim (in Portuguese) talking about Erlang and the origin of Elixir on Grok Podcast (2011)](https://www.grokpodcast.com.br/series/erlang/). [Four years later he went back to talk about Elixir](https://www.grokpodcast.com.br/series/elixir/).
 
 
 
