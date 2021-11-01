@@ -1,6 +1,17 @@
 # Elixir and Erlang Podcasts
 
+
+## Interviews with José Valim
+
+[8h40 of podcast episodes with José Valim, the Creator of Elixir.](https://twitter.com/adolfont/status/1454832032710905863)
+
+[José Valim (in Portuguese) talking about Erlang and the origin of Elixir on Grok Podcast (2011)](https://www.grokpodcast.com.br/series/erlang/). [Four years later he went back to talk about Elixir](https://www.grokpodcast.com.br/series/elixir/).
+
+
+
 ## Status of Elixir Podcasts
+
+November 2021 - Four new Elixir podcasts: Elixir em Foco, BEAM Rardio, Elixir Round Table and Elixir Newbie.
 
 Now (October 2021) Elixir School has a page dedicated to podcasts: https://elixirschool.com/en/podcasts
 
