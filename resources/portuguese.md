@@ -74,6 +74,9 @@
 - [Ética no Desenvolvimento de Software & Elixir, com Ruan Brandão](https://anchor.fm/adolfont/episodes/tica-no-Desenvolvimento-de-Software--Elixir--com-Ruan-Brando-eie3l1/a-a30dnc0)
 - [Guilherme de Maio: Desenvolvedor com foco em Back-End e um dos organizadores do ELUG São Paulo](https://anchor.fm/adolfont/episodes/Guilherme-de-Maio-Desenvolvedor-com-foco-em-Back-End-e-um-dos-organizadores-do-ELUG-So-Paulo-ej2o1o/a-a345kcv)
 - [Charlotte de Oliveira: Engenheira de Software Senior especialista em Elixir](https://anchor.fm/adolfont/episodes/Charlotte-de-Oliveira-Engenheira-de-Software-Senior-especialista-em-Elixir-ekpr61)
+- [Elixir e Empreendedorismo com Alfred Reinold Baudisch](https://anchor.fm/adolfont/episodes/Elixir-e-Empreendedorismo-com-Alfred-Reinold-Baudisch-ettnef)
+- [Spawnfest 2021, com Filipe Varjão e Paulo F. Oliveira](https://anchor.fm/adolfont/episodes/Spawnfest-2021--com-Filipe-Varjo-e-Paulo-F--Oliveira-e1083au)
+- [Barack Obama usa Elixir? Mensagens sociais com Elixir na empresa Community](https://anchor.fm/adolfont/episodes/Barack-Obama-usa-Elixir--Mensagens-sociais-com-Elixir-na-empresa-Community-e17ofvr)
 
 ### Hipsters.Tech
 - [Elixir, a linguagem hipster – Hipsters #48](https://hipsters.tech/elixir-a-linguagem-hipster-hipsters-48/)
