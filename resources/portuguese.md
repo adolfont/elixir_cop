@@ -63,8 +63,14 @@
 
 ## Episódios de Podcasts
 
+### Elixir em Foco
+
+[Elixir em Foco](https://anchor.fm/elixiremfoco/) - Elixir em Foco é um podcast totalmente deidcado a Elixir e à BEAM. 
 
 ### Grok Podcast
+
+Episódios de podcast com valor histórico. José Valim foi entrevistado várias vezes no podcast e nas duas séries abaixo os temas foram Erlang e Elixir. 
+
 - [Série Elixir no Grok Podcast](https://www.grokpodcast.com.br/series/elixir/)
 - [Série Erlang no Grok Podcast](https://www.grokpodcast.com.br/series/erlang/)
 
