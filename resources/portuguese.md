@@ -19,6 +19,7 @@
 ### Playlists
 
 - [Curso de Elixir - Emílias Programando](https://www.youtube.com/watch?v=gJ-1xUlD8sY&list=PLF5ttO8F-IsT16ozoGdrWLzxAU9IMuJKS)
+- [Elixir por Daniel Cukier](https://www.youtube.com/playlist?list=PLjGN96vX3BTIP92pi07psJxKrKfgZhCs7)
 
 ### Vídeos específicos
 - [A linguagem Elixir - Alura Live #80](https://youtu.be/VGLhnZr1zWM),  com Charlotte Lorelei 
