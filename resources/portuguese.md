@@ -50,7 +50,7 @@
 - Elug CE https://t.me/elug_ce
 - ElugRN https://t.me/ElugRN 
 - Elixir |> CWB https://t.me/elixir_cwb
-- Erlang Brasil https://t.me/erlangbrarasil
+- Erlang Brasil https://t.me/erlangbrasil
 
 ## Facebook 
 
