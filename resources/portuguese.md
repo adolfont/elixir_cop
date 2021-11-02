@@ -13,13 +13,12 @@
 - Canal do [Jean Carlos](https://www.youtube.com/channel/UCjSFU-9JUt2ATyjomcsRgSQ) #codehints
 - Canal do [Eber Freitas Dias](https://www.youtube.com/channel/UCWXdamNzYUTqesb2ejGzzIQ): Fazendo um jogo com Elixir/Phoenix/LiveView
 - Canal do [Thiago Guimarães](https://www.youtube.com/channel/UC2_fWMqS650QlK-N73r6fjQ): contém a série de como desenvolver uma API usando Elixir com Phoenix Framework.
-- Canal do [Allef Gomes](https://www.youtube.com/channel/UCOZlyE-2TWCZWEDafcGSltg)
 - Canal [Lottinha Programa](https://www.youtube.com/channel/UC_gYKAD3-dvl8fvC9j-OGBQ) com [Live streams](https://www.youtube.com/channel/UC_gYKAD3-dvl8fvC9j-OGBQ/videos?view=2&flow=grid)
 
 
 ### Playlists
 
-- [Emílias Programando](https://www.youtube.com/watch?v=gJ-1xUlD8sY&list=PLF5ttO8F-IsT16ozoGdrWLzxAU9IMuJKS)
+- [Curso de Elixir - Emílias Programando](https://www.youtube.com/watch?v=gJ-1xUlD8sY&list=PLF5ttO8F-IsT16ozoGdrWLzxAU9IMuJKS)
 
 ### Vídeos específicos
 - [A linguagem Elixir - Alura Live #80](https://youtu.be/VGLhnZr1zWM),  com Charlotte Lorelei 
