@@ -4,9 +4,13 @@
 
 ### Canais
 
+#### Publicando regularmente em novembro de 2021
 - Canal do [Adolfo Neto](https://www.youtube.com/c/AdolfoNeto)
-- Canal do [Jean Carlos](https://www.youtube.com/channel/UCjSFU-9JUt2ATyjomcsRgSQ) #codehints
 - Canal do [Gustavo Oliveira](https://www.youtube.com/channel/UCl_BBK2sXZzQy_3ziNU7-XA)
+
+
+### Aparentemente inativos
+- Canal do [Jean Carlos](https://www.youtube.com/channel/UCjSFU-9JUt2ATyjomcsRgSQ) #codehints
 - Canal do [Eber Freitas Dias](https://www.youtube.com/channel/UCWXdamNzYUTqesb2ejGzzIQ): Fazendo um jogo com Elixir/Phoenix/LiveView
 - Canal do [Thiago Guimarães](https://www.youtube.com/channel/UC2_fWMqS650QlK-N73r6fjQ): contém a série de como desenvolver uma API usando Elixir com Phoenix Framework.
 - Canal do [Allef Gomes](https://www.youtube.com/channel/UCOZlyE-2TWCZWEDafcGSltg)
