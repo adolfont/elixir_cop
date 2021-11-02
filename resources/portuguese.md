@@ -4,7 +4,7 @@
 
 ### Canais
 
-#### Publicou ao menos um veo nos últimos 3 meses (novembro de 2021)
+#### Publicou ao menos um vídeo nos últimos 3 meses (novembro de 2021)
 - Canal do [Adolfo Neto](https://www.youtube.com/c/AdolfoNeto)
 - Canal do [Gustavo Oliveira](https://www.youtube.com/channel/UCl_BBK2sXZzQy_3ziNU7-XA)
 
