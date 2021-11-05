@@ -37,4 +37,5 @@
 - Elixir Tweets https://t.me/elixirtweets
 - Elixir Conferences https://t.me/elixirconferences
 - Elixir Jobs https://t.me/elixir_jobs
+- BEAM Basket https://t.me/s/BeamBasket
 
