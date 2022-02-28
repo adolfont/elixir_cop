@@ -19,7 +19,7 @@ Latest update: February 28, 2022
 | February 22, 2022   | 87            | Thinking Elixir Podcast      | https://thinkingelixir.com/the-podcast/        |
 | February 23, 2022 | 164            | Elixir Mix      | https://elixirmix.com/ |
 | February 25, 2022 |            110 | Elixir Outlaws  | https://elixiroutlaws.com/     |
-| February 22, 2022 | 112            | Elixir Wizards  | https://podcast.smartlogic.io/ |
+| February 22, 2022 | 112            | Elixir Wizards  | https://smartlogic.io/podcast/elixir-wizards/ |
 | May 26, 2021 |           166 | Elixir Talk     | https://soundcloud.com/elixirtalk         |
 | August 9, 2019  |            85 | Elixir Fountain | https://soundcloud.com/elixirfountain (this link is now broken http://www.elixirfountain.com/) |
 | October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
