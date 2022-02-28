@@ -9,18 +9,18 @@
 
 November 2021 - Four new Elixir podcasts: Elixir em Foco, BEAM Rardio, Elixir Round Table and Elixir Newbie.
 
-Now (October 2021) Elixir School has a page dedicated to podcasts: https://elixirschool.com/en/podcasts
+October 2021 - Elixir School has a page dedicated to podcasts: https://elixirschool.com/en/podcasts
 
 
-Latest update: November 6, 2020
+Latest update: February 28, 2022
 
 |   Latest episode  | # of episodes | Name            | Site                           |
 |:-----------------:|--------------:|-----------------|--------------------------------|
-| November 3, 2020   | 21            | Thinking Elixir Podcast      | https://thinkingelixir.com/the-podcast/        |
-| November 3, 2020 | 114            | Elixir Mix      | https://devchat.tv/elixir-mix/ |
-| October 15, 2020 |            84 | Elixir Outlaws  | https://elixiroutlaws.com/     |
-| October 15, 2020 | 74            | Elixir Wizards  | https://podcast.smartlogic.io/ |
-| May 26, 2020 |            64 | Elixir Talk     | http://elixirtalk.com/         |
+| February 22, 2022   | 87            | Thinking Elixir Podcast      | https://thinkingelixir.com/the-podcast/        |
+| February 23, 2022 | 164            | Elixir Mix      | https://elixirmix.com/ |
+| February 25, 2022 |            110 | Elixir Outlaws  | https://elixiroutlaws.com/     |
+| February 22, 2022 | 112            | Elixir Wizards  | https://podcast.smartlogic.io/ |
+| May 26, 2021 |           166 | Elixir Talk     | https://soundcloud.com/elixirtalk         |
 | August 9, 2019  |            85 | Elixir Fountain | https://soundcloud.com/elixirfountain (this link is now broken http://www.elixirfountain.com/) |
 | October 4, 2019   | 10            | Indielixir      | http://indielixer.com/         |
 
